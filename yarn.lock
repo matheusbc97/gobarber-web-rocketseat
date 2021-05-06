@@ -1580,7 +1580,7 @@
     pretty-format "^24.0.0"
     redent "^3.0.0"
 
-"@testing-library/react-hooks@^3.4.1":
+"@testing-library/react-hooks@3.4.1":
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/@testing-library/react-hooks/-/react-hooks-3.4.1.tgz#1f8ccd21208086ec228d9743fe40b69d0efcd7e5"
   integrity sha512-LbzvE7oKsVzuW1cxA/aOeNgeVvmHWG2p/WSzalIGyWuqZT3jVcNDT5KPEwy36sUYWde0Qsh32xqIUFXukeywXg==
@@ -8945,9 +8945,9 @@ prop-types@^15.5.8, prop-types@^15.6.2, prop-types@^15.7.2:
     react-is "^16.8.1"
 
 property-expr@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/property-expr/-/property-expr-2.0.2.tgz#fff2a43919135553a3bc2fdd94bdb841965b2330"
-  integrity sha512-bc/5ggaYZxNkFKj374aLbEDqVADdYaLcFo8XBkishUWbaAdjlphaBFns9TvRA2pUseVL/wMFmui9X3IdNDU37g==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/property-expr/-/property-expr-2.0.4.tgz#37b925478e58965031bb612ec5b3260f8241e910"
+  integrity sha512-sFPkHQjVKheDNnPvotjQmm3KD3uk1fWKUN7CrpdbwmUx3CrG3QiM8QpTSimvig5vTXmTvjz7+TDvXOI9+4rkcg==
 
 proxy-addr@~2.0.5:
   version "2.0.6"
